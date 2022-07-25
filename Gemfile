@@ -15,7 +15,7 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'haml-rails', '~> 0.9'
 
 # UI related
-gem 'bootstrap-sass', '~> 3.3.4'
+gem 'bootstrap-sass', '~> 3.4.1'
 gem 'momentjs-rails'
 gem 'bootstrap-daterangepicker-rails'
 
@@ -33,7 +33,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # gem 'bcrypt', '~> 3.1.7'
 
 # Use Puma as the app server
-gem 'puma', '3.11.3'
+gem 'puma', '4.3.12'
 
 # 3rd Party Services
 gem 'omniauth-salesforce'
